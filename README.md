@@ -1,6 +1,5 @@
 Laurel Sebastian 
 she/her/hers
-GGE MS
+Graduate Group in Ecology MS
 Restoration ecology in grasslands and wetlands. 
-Test of additional edit. 
 
