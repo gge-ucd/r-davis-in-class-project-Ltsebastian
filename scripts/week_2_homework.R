@@ -13,3 +13,5 @@ times3
 plus10 <- times3+10
 plus10
 plus10[c(TRUE, FALSE)]
+
+x <- 3
