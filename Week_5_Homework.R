@@ -59,3 +59,4 @@ weight_challenge_bonus <- surveys %>%
                                weight>= summ[[4]] ~ "large"))
 print(weight_challenge_bonus, n=15)
 
+#why can't I get this on GIT!
