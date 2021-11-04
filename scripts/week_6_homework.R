@@ -60,6 +60,3 @@ gapminder %>%
        color= "Country")+ 
   theme_classic()
 
-#new attempt
-countries <- c("Brazil", "China", "El Salvador", "Niger", "United States")
-
