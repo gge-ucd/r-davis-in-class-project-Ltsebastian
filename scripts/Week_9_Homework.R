@@ -1,4 +1,5 @@
 library(tidyverse)
+library(lubridate)
 str(mloa)
 mloa <- read_csv("https://raw.githubusercontent.com/gge-ucd/R-DAVIS/master/data/mauna_loa_met_2001_minute.csv")
 
